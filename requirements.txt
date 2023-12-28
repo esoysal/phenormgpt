@@ -1,0 +1,7 @@
+click==8.0.4
+nltk==3.8.1
+numpy==1.24.4
+openai==0.27.10
+spacy==3.4.4
+tiktoken==0.4.0
+tqdm==4.65.0
