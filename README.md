@@ -24,16 +24,16 @@ pip install -r requirements.txt
 
 Please cite our work as follows:
 ```bibtex
-@proceedings{soysal_2023_10104725,
-  title        = {UTH-Olympia@BC8 Track 3: Adapting GPT-4 for Entity
-                   Extraction and Normalizing Responses to Detect Key
-                   Findings in Dysmorphology Physical Examination
-                   Observations
-                  },
-  year         = 2023,
-  publisher    = {Zenodo},
-  month        = nov,
-  doi          = {10.5281/zenodo.10104725},
-  url          = {https://doi.org/10.5281/zenodo.10104725},
+@article{10.1093/database/baae103,
+    author = {Soysal, Ekin and Roberts, Kirk},
+    title = {PheNormGPT: a framework for extraction and normalization of key medical findings},
+    journal = {Database},
+    volume = {2024},
+    pages = {baae103},
+    year = {2024},
+    issn = {1758-0463},
+    doi = {10.1093/database/baae103},
+    url = {https://doi.org/10.1093/database/baae103},
+    eprint = {https://academic.oup.com/database/article-pdf/doi/10.1093/database/baae103/60093736/baae103.pdf},
 }
 ```
